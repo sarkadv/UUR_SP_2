@@ -2,3 +2,7 @@
 bin/
 doc/
 jar/
+
+# Editor and OS files
+.DS_Store
+.idea/
